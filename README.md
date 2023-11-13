@@ -1,1 +1,1 @@
-itt egy readme fájl.nemtom mit rakjak bele, csak annyit hogy ide erre a github repositoryra lesznek feltöltve a programfájlok és a ppt és a terv.
+itt egy readme fájl.nemtom mit rakjak bele, csak annyit hogy ide erre a github repositoryra lesznek feltöltve a programfájlok és a ppt és a terv. akit meghívtam collaboratornak, az fogadja el az inviteot.
