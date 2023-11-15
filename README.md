@@ -54,3 +54,46 @@ itt egy readme fájl.nemtom mit rakjak bele, csak annyit hogy ide erre a github 
 
 </body>
 </html>
+
+
+
+/* Reset CSS */
+* {
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Section styles */
+section {
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styles */
+h2 {
+    color: #333;
+}
+
+/* Paragraph styles */
+p {
+    line-height: 1.6;
+    color: #555;
+}
